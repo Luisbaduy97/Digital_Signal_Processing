@@ -14,3 +14,5 @@ The second practice folder includes filtering an EMG-type signal, IIR low-pass a
 <p align = 'center'>
   <img src='https://github.com/Luisbaduy97/Digital_Signal_Processing/blob/master/Segunda_practica/signal.jpg'>
 </p>
+
+I also include within the two projects the analyzes in time and frequency by both the Fourier transform for the ECG signal and the Wavelet transform for the EMG signal.
