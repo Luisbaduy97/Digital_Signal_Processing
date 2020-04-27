@@ -11,6 +11,6 @@ In the first practice folder, the filtering of an ECG signal is included, for fi
 
 The second practice folder includes filtering an EMG-type signal, IIR low-pass and high-pass filters were used for filtering to achieve filtering.
 
-<p>
+<p align = 'center'>
   <img src='https://github.com/Luisbaduy97/Digital_Signal_Processing/blob/master/Segunda_practica/signal.jpg'>
 </p>
