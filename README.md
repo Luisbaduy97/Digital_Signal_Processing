@@ -16,3 +16,6 @@ The second practice folder includes filtering an EMG-type signal, IIR low-pass a
 </p>
 
 I also include within the two projects the analyzes in time and frequency by both the Fourier transform for the ECG signal and the Wavelet transform for the EMG signal.
+
+
+This projecto was made with :heart: by <a href = 'https://www.linkedin.com/in/luis-navarrete-baduy-53bb30176/'>Luis Navarrete</a>.
